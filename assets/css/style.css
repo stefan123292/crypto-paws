@@ -565,7 +565,7 @@ img {
 .header .navbar-brand__logo {
   width: 2.5rem;
   height: 3.125rem;
-  background-image: url("../images/logo/logo.svg");
+  background-image: url("../images/loader/first.png");
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: contain;
